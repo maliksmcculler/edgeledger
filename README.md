@@ -1,4 +1,4 @@
-# edgeledger
+# Edgeledger
 This is a responsive website that can be used to provide information that your business need.
 ## Installation
 
