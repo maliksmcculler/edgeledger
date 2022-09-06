@@ -18,4 +18,5 @@ I learned how to build this website using Brad Traversy.
 # Images
 ![edgeledgerhome](https://user-images.githubusercontent.com/32546679/188543508-e71a5320-5d3f-496c-a8ac-7df5f5976a5c.png)
 
-#Live Site Link https://edgeledgerweb1.netlify.app
+#Live Site 
+https://edgeledgerweb1.netlify.app
