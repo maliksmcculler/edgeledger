@@ -17,8 +17,6 @@ I learned how to build this website using Brad Traversy.
 
 # Image
 
-[Welcome to EdgeLedger.pdf](https://github.com/maliksmcculler/edgeledger/files/9493210/Welcome.to.EdgeLedger.pdf)
-
 
 # Live Site 
 https://edgeledgerweb1.netlify.app
