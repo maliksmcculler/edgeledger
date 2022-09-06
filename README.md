@@ -16,6 +16,7 @@ Feedback on this project would be amazing and much appreciated. Thank you.
 I learned how to build this website using Brad Traversy. 
 
 # Image
+![edgeledgerweb1 netlify app-WelcometoEdgeLedger(1)](https://user-images.githubusercontent.com/32546679/188547461-0a99e252-db09-4d59-9409-55941e2eefff.png)
 
 
 # Live Site 
